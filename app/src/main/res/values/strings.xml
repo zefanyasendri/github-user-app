@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ZS GitHub User</string>
+
+    <string name="user_username">Username</string>
+    <string name="user_name">Name</string>
+    <string name="user_repo">Repository</string>
+    <string name="user_followers">Followers</string>
+    <string name="user_following">Following</string>
+    <string name="user_location">Location</string>
+    <string name="user_company">Company</string>
+
+    <string name="search_message">Search GitHub User</string>
+    <string name="search_hint">Search username here</string>
+    <string name="follows_msg">Not Found</string>
+    <string name="favorite">Favorite</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="change_theme_mode">Change Theme Mode</string>
+    <string name="add_favorite">Add Favorite</string>
+
+    <string name="added">One user added successfully</string>
+    <string name="deleted">One user deleted successfully</string>
+</resources>
